@@ -5,6 +5,7 @@
 - [x] 1.2. NumPy
 - [x] 1.3. Matplotlib
 - [x] 1.4. Pandas
+- [ ] Homework: Visualizing Stock Data
 
 ## Lecture 2: Unsupervised Learning Algorithms
 - [ ] 2.1. Clustering
