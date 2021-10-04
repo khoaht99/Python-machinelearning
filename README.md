@@ -7,7 +7,10 @@
 - [x] 1.4. [Pandas](https://github.com/icebearian/Python-machinelearning/blob/main/Lec1_4_IntroToPython.ipynb)
 - [x] 1.5. Geopandas
 - [x] 1.6. Folium 
-- [x] Homework: [Visualizing Stock Data](https://github.com/icebearian/Python-machinelearning/blob/main/Visualize_Stock_Data.ipynb)
+- [x] Practice: [Visualizing Stock Data](https://github.com/icebearian/Python-machinelearning/blob/main/Visualize_Stock_Data.ipynb)
+- [ ] Practice: HCMC Population Analysics
+- [ ] Practice: Plotting polygons with Folium
+- [ ] Practice: User Behavior Analytics: Click maps
 
 ## Lecture 2: Unsupervised Learning Algorithms
 - [ ] 2.1. Clustering
