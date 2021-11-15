@@ -8,19 +8,19 @@
 - [x] 1.5. Geopandas
 - [x] 1.6. Folium 
 - [x] Practice: [Visualizing Stock Data](https://github.com/icebearian/Python-machinelearning/blob/main/Visualize_Stock_Data.ipynb)
-- [ ] Practice: HCMC Population Analysics
-- [ ] Practice: Plotting polygons with Folium
-- [ ] Practice: User Behavior Analytics: Click maps
+- [x] Practice: HCMC Population Analysics
+- [x] Practice: Plotting polygons with Folium
+- [x] Practice: User Behavior Analytics: Click maps
 
 ## Lecture 2: Unsupervised Learning Algorithms
-- [ ] 2.1. Clustering
-- [ ] 2.2. Dimensionality Reduction
+- [x] 2.1. Clustering
+- [x] 2.2. Dimensionality Reduction
 ## Lecture 3: Supervised Learning Algorithms
-- [ ] 3.1. Gradient-based Learning
-- [ ] 3.2. Suport Vector Machine
+- [x] 3.1. Gradient-based Learning
+- [x] 3.2. Suport Vector Machine
 ## Lecture 4: Deep learning Algorithms
-- [ ] 4.1. Convolutional Neural Network (CNN)
-- [ ] 4.2. K-nearest Neighbor (KNN)
+- [x] 4.1. Convolutional Neural Network (CNN)
+- [x] 4.2. K-nearest Neighbor (KNN)
 - [ ] 4.3. Long Short Term Memory (LSTM)
 
 ## Capstone Project
